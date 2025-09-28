@@ -19,11 +19,19 @@ Permite que cada usuário faça login, registre seus medicamentos e visualize su
 
 - Linguagem: **C**
 - Biblioteca padrão: `stdio.h`, `stdlib.h`, `string.h`
-
+- Ferramenta: Dev C++
 ---
 
-## ▶️ Como Executar
+📚 Aprendizados
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/Lucas132547/gerenciador-medicamentos-c.git
+- Uso de structs em C para organizar dados
+- Manipulação de arrays de structs
+- Implementação de menu interativo
+- Prática de login/cadastro em memória
+
+👤 Autor
+
+Lucas Silveira
+
+- 📧 Email: lucas.silveira630521@gmail.com
+- https://github.com/Lucas132547
