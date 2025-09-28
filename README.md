@@ -26,4 +26,4 @@ Permite que cada usuário faça login, registre seus medicamentos e visualize su
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/gerenciador-medicamentos-c.git
+   git clone https://github.com/Lucas132547/gerenciador-medicamentos-c.git
